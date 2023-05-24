@@ -12,6 +12,8 @@
 **Note**
 
 The whole sounds are not from me but it is a collection of the many songs
+**CREDITS**
+<a href="https://github.com/robsoncouto/arduino-songs">https://github.com/robsoncouto/arduino-songs</a>
 
 
 <img align="center" style="border-radius:12px;width:400px" src="https://i.imgur.com/jWKgRlY.png" alt="Banner"/>
